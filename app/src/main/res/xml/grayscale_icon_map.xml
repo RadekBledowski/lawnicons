@@ -622,4 +622,6 @@
     <icon drawable="@drawable/recorder" package="org.lineageos.recorder" name="Recorder" />
     <icon drawable="@drawable/music" package="org.lineageos.eleven" name="Music" />
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
+    <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.libre" name="KeePassDX" />
+    <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.free" name="KeePassDX" />
 </icons>
