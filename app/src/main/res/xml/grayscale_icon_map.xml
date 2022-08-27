@@ -253,6 +253,7 @@
     <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
     <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" name="Netflix" />
     <icon drawable="@drawable/newpipe" package="org.schabi.newpipe" name="NewPipe" />
+    <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
     <icon drawable="@drawable/notify" package="com.mc.amazfit1" name="Notify for Amazfit &amp; Zepp" />
     <icon drawable="@drawable/nubank" package="com.nu.production" name="Nubank" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
@@ -277,6 +278,7 @@
     <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="ProtonMail" />
     <icon drawable="@drawable/protoncalendar" package="me.proton.android.calendar" name="Proton Calendar" />
     <icon drawable="@drawable/protonvpn" package="ch.protonvpn.android" name="ProtonVPN" />
+    <icon drawable="@drawable/protondrive" package="me.proton.android.drive" name="Proton Drive" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
     <icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="QuickPic" />
     <icon drawable="@drawable/quickpic_mod" package="com.wstxda.PicFolder" name="QuickPic Mod" />
@@ -440,6 +442,7 @@
     <icon drawable="@drawable/retro_music" package="io.github.muntashirakon.Music" name="Metro" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
+    <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
     <icon drawable="@drawable/camera" package="net.sourceforge.opencamera" name="Open Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/disneyplus" package="com.disney.disneyplus" name="Disney+" />
@@ -606,4 +609,17 @@
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
     <icon drawable="@drawable/kdeconnect" package="org.kde.kdeconnect_tp" name="KDE Connect" />
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
+    <icon drawable="@drawable/app_lounge" package="foundation.e.apps" name="App Lounge" />
+    <icon drawable="@drawable/browser" package="foundation.e.browser" name="Browser" />
+    <icon drawable="@drawable/calendar" package="foundation.e.calendar" name="Calendar" />
+    <icon drawable="@drawable/camera" package="foundation.e.camera" name="Camera" />
+    <icon drawable="@drawable/fairemail" package="foundation.e.mail" name="Mail" />
+    <icon drawable="@drawable/messages" package="foundation.e.message" name="Message" />
+    <icon drawable="@drawable/notes" package="foundation.e.notes" name="Notes" />
+    <icon drawable="@drawable/tasks" package="foundation.e.tasks" name="Tasks" />
+    <icon drawable="@drawable/clock" package="com.android.deskclock" name="Clock" />
+    <icon drawable="@drawable/floccus" package="org.handmadeideas.floccus" name="floccus" />
+    <icon drawable="@drawable/recorder" package="org.lineageos.recorder" name="Recorder" />
+    <icon drawable="@drawable/music" package="org.lineageos.eleven" name="Music" />
+    <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
 </icons>
