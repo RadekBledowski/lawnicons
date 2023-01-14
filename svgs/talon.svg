@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Artboard Copy</title>
-    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Group" transform="translate(21.000000, 60.000000)" stroke="#000000" stroke-width="12">
-            <path d="M0,72 C17.8179741,54.7547887 67.8179741,30.7547887 150,0" id="Path"></path>
-            <polyline id="Path-2" points="93 23 93 65 17 59.7517574"></polyline>
-        </g>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 81</title>
+    <g id="Artboard-Copy-81" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,7 C20.013761,8.07800933 17.5116345,9.25129838 14.951162,10.4389321 L14.3645208,16.2592593 L5.16465065,15.2571117 C3.59113342,16.1737827 2.44066012,17.018568 2,17.7407407 L2,15.6502482 C2.75804267,13.0065058 17.3588028,7.47488878 22,7 Z M13.4911323,11.1156666 L12.9776195,11.3540328 C10.8894264,12.3243287 8.84046828,13.2903609 7.07898135,14.2082188 L13.1622184,14.7124125 L13.4911323,11.1156666 Z" id="Combined-Shape" fill="#000000"></path>
     </g>
 </svg>

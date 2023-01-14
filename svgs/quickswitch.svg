@@ -1,15 +1,6 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="path-1-inside-1_405_216" fill="white">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9 5V19H15V5H9ZM8 3C7.44772 3 7 3.44772 7 4V20C7 20.5523 7.44772 21 8 21H16C16.5523 21 17 20.5523 17 20V4C17 3.44772 16.5523 3 16 3H8Z"/>
-</mask>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M9 5V19H15V5H9ZM8 3C7.44772 3 7 3.44772 7 4V20C7 20.5523 7.44772 21 8 21H16C16.5523 21 17 20.5523 17 20V4C17 3.44772 16.5523 3 16 3H8Z" fill="#FFF1C0"/>
-<path d="M9 19H7V21H9V19ZM9 5V3H7V5H9ZM15 19V21H17V19H15ZM15 5H17V3H15V5ZM11 19V5H7V19H11ZM15 17H9V21H15V17ZM13 5V19H17V5H13ZM9 7H15V3H9V7ZM9 4C9 4.55228 8.55229 5 8 5V1C6.34314 1 5 2.34315 5 4H9ZM9 20V4H5V20H9ZM8 19C8.55229 19 9 19.4477 9 20H5C5 21.6569 6.34315 23 8 23V19ZM16 19H8V23H16V19ZM15 20C15 19.4477 15.4477 19 16 19V23C17.6569 23 19 21.6569 19 20H15ZM15 4V20H19V4H15ZM16 5C15.4477 5 15 4.55229 15 4H19C19 2.34315 17.6569 1 16 1V5ZM8 5H16V1H8V5Z" fill="#FFF1C0" mask="url(#path-1-inside-1_405_216)"/>
-<mask id="path-3-inside-2_405_216" fill="white">
-<rect x="2" y="4" width="4" height="16" rx="1"/>
-</mask>
-<rect x="2" y="4" width="4" height="16" rx="1" fill="#FFF1C0" stroke="#FFF1C0" stroke-width="4" mask="url(#path-3-inside-2_405_216)"/>
-<mask id="path-4-inside-3_405_216" fill="white">
-<rect x="18" y="4" width="4" height="16" rx="1"/>
-</mask>
-<rect x="18" y="4" width="4" height="16" rx="1" fill="#FFF1C0" stroke="#FFF1C0" stroke-width="4" mask="url(#path-4-inside-3_405_216)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 5H15V19H9V5ZM7 4C7 3.44772 7.44772 3 8 3H16C16.5523 3 17 3.44772 17 4V20C17 20.5523 16.5523 21 16 21H8C7.44772 21 7 20.5523 7 20V4Z" fill="#FFF1C0"/>
+<rect x="3.5" y="4.5" width="1" height="15" rx="0.5" fill="#FFF1C0" stroke="#FFF1C0"/>
+<rect x="19.5" y="4.5" width="1" height="15" rx="0.5" fill="#FFF1C0" stroke="#FFF1C0"/>
 </svg>
