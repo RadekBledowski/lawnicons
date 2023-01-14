@@ -829,4 +829,11 @@
     <icon drawable="@drawable/inpocasi" package="com.johnniek.inpocasi.widget" name="In pocasi" />
     <icon drawable="@drawable/o2tv" package="cz.o2.o2tv" name="o2tv" />
     <icon drawable="@drawable/microsoft_onenote" package="com.microsoft.office.onenote" name="OneNote" />
+    <icon drawable="@drawable/zerodha_coin" package="com.zerodha.coin" name="Zerodha Coin" />
+    <icon drawable="@drawable/zerodha_kite" package="com.zerodha.kite3" name="Zerodha Kite" />
+    <icon drawable="@drawable/medito" package="meditofoundation.medito" name="Medito" />
+    <icon drawable="@drawable/scany" package="app.moonlight.sda.scany" name="Scany" />
+    <icon drawable="@drawable/slice" package="indwin.c3.shareapp" name="slice" />
+    <icon drawable="@drawable/stay_focused" package="com.stayfocused" name="Stay Focused" />
+    <icon drawable="@drawable/music" package="com.soundcorset.client.android" name="Soundcorset" />
 </icons>
