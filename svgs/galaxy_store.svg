@@ -1,6 +1,12 @@
-<svg width="192" height="192" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" stroke="#000" stroke-width="12">
-    <path d="M61 64v-7c0-19.33 15.67-35 35-35s35 15.67 35 35v7"/>
-    <path d="m28 67 7.681 79.11A26.44 26.44 42.23 0 0 62.001 170h68a26.44 26.44 137.8 0 0 26.32-23.89L164.002 67z" stroke-linejoin="round"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Shape_525" data-name="Shape 525">
+    <path class="cls-1" d="M17.19,7.5V7.17a5.18,5.18,0,0,0-10.36,0V7.5H2.5L3.65,18.18A4.27,4.27,0,0,0,7.89,22h8.22a4.27,4.27,0,0,0,4.24-3.82L21.5,7.5Zm-8.11,0V7.17a2.92,2.92,0,0,1,5.84,0V7.5Z"/>
   </g>
 </svg>

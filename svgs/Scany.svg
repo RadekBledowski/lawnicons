@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" viewBox="0 0 192 192" width="192" height="192" style="stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1;stroke-dasharray:none;fill:#000000;fill-opacity:1;fill-rule:evenodd" font-family="Arial" font-size="15px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <path id="path_13" d="M120,39.9999L120,72L152,72L152,39.9999C152,39.9999 120,39.9999 120,39.9999z" style="stroke-width:2.381;fill:none;fill-opacity:0;" />
+  <path id="path_14" d="M40,39.9999L40,72L72,72L72,39.9999C72,39.9999 40,39.9999 40,39.9999z" style="stroke-width:2.381;fill:none;fill-opacity:0;" />
+  <path id="path_15" d="M40,120L40,152L72,152L72,120C72,120 40,120 40,120z" style="stroke-width:2.381;fill:none;fill-opacity:0;" />
+  <path id="path_16" d="M88,23.9999L88,88L24,88L24,23.9999C45.3333,23.9999 66.6667,23.9999 88,23.9999zM40,39.9999L40,72L72,72L72,39.9999C61.3333,39.9999 50.6667,39.9999 40,39.9999z" style="stroke-width:2.381;" />
+  <path id="path_17" d="M168,23.9999L168,88L104,88L104,23.9999C125.3333,23.9999 146.6667,23.9999 168,23.9999zM120,39.9999L120,72L152,72L152,39.9999C141.3333,39.9999 130.6667,39.9999 120,39.9999z" style="stroke-width:2.381;" />
+  <path id="path_18" d="M24,104L88,104L88,168.0001L24,168.0001C24,146.6667 24,125.3333 24,104zM72,152L72,120L40,120L40,152C50.6667,152 61.3333,152 72,152z" style="stroke-width:2.381;" />
+  <path id="path_19" d="M152,152L152,168.0001L168,168.0001L168,152C168,152 152,152 152,152z" style="stroke-width:2.381;" />
+  <path id="path_20" d="M104,104L104,120L120,120L120,104C120,104 104,104 104,104z" style="stroke-width:2.381;" />
+  <path id="path_21" d="M120,120L120,136L136,136L136,120C136,120 120,120 120,120z" style="stroke-width:2.381;" />
+  <path id="path_22" d="M136,104L136,120L152,120L152,104C152,104 136,104 136,104z" style="stroke-width:2.381;" />
+  <path id="path_23" d="M152,120L152,136L168,136L168,120C168,120 152,120 152,120z" style="stroke-width:2.381;" />
+  <path id="path_24" d="M136,136L136,152L152,152L152,136C152,136 136,136 136,136z" style="stroke-width:2.381;" />
+  <path id="path_25" d="M104,136L104,152L120,152L120,136C120,136 104,136 104,136z" style="stroke-width:2.381;" />
+  <path id="path_26" d="M120,152L120,168.0001L136,168.0001L136,152C136,152 120,152 120,152z" style="stroke-width:2.381;" />
+</svg>
