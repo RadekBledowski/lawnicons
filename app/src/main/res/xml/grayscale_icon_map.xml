@@ -666,6 +666,7 @@
     <icon drawable="@drawable/snapseed" package="com.niksoftware.snapseed" name="Snapseed" />
     <icon drawable="@drawable/solid_explorer" package="pl.solidexplorer2" name="Solid Explorer" />
     <icon drawable="@drawable/solitaire" package="ee.dustland.android.solitaire" name="Solitaire" />
+    <icon drawable="@drawable/solitaire_collection" package="com.microsoft.microsoftsolitairecollection" name="Microsoft Solitaire Collection" />
     <icon drawable="@drawable/sony_headphonesconnect" package="com.sony.songpal.mdr" name="Sony Headphones Connect" />
     <icon drawable="@drawable/sonymusic" package="com.sonyericsson.music" name="Sony Music" />
     <icon drawable="@drawable/soundcloud" package="com.soundcloud.android" name="SoundCloud" />
