@@ -60,6 +60,7 @@
     <icon drawable="@drawable/boost_for_reddit" package="com.rubenmayayo.reddit" name="Boost for Reddit" />
     <icon drawable="@drawable/boost" package="my.com.myboost" name="Boost" />
     <icon drawable="@drawable/brave_browser" package="com.brave.browser" name="Brave Browser" />
+    <icon drawable="@drawable/brawl_stars" package="com.supercell.brawlstars" name="Brawl Stars" />
     <icon drawable="@drawable/briar" package="org.briarproject.briar.android" name="briar" />
     <icon drawable="@drawable/bromite" package="org.bromite.bromite" name="Bromite" />
     <icon drawable="@drawable/browser" package="foundation.e.browser" name="Browser" />
