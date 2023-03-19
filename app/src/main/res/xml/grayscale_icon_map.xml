@@ -205,6 +205,7 @@
     <icon drawable="@drawable/droid_ify" package="com.looker.droidify" name="Droid-ify" />
     <icon drawable="@drawable/duckduckgo" package="com.duckduckgo.mobile.android" name="DuckDuckGo" />
     <icon drawable="@drawable/duolingo" package="com.duolingo" name="Duolingo" />
+    <icon drawable="@drawable/eatsure" package="com.done.faasos" name="EatSure" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/ebay" package="com.ebay.mobile" name="eBay" />
     <icon drawable="@drawable/eight_ball_pool" package="com.miniclip.eightballpool" name="8 Ball Pool" />
