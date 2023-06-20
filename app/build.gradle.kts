@@ -7,12 +7,12 @@ plugins {
 }
 
 android {
-    compileSdk = 31
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "app.lawnchair.lawnicons"
         minSdk = 26
-        targetSdk = 31
+        targetSdk = 33
         versionCode = 2
         versionName = "1.9.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
@@ -54,18 +54,19 @@ android {
 }
 
 dependencies {
-    implementation("androidx.core:core-ktx:1.7.0")
+    implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.compose.ui:ui:${Versions.COMPOSE}")
     implementation("androidx.compose.material:material:${Versions.COMPOSE}")
     implementation("androidx.compose.ui:ui-tooling-preview:${Versions.COMPOSE}")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.4.0")
-    implementation("androidx.activity:activity-compose:1.4.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
+    implementation("androidx.activity:activity-compose:1.7.2")
+    implementation("androidx.core:core-ktx:1.10.1")
     testImplementation("junit:junit:4.13.2")
-    androidTestImplementation("androidx.test.ext:junit:1.1.3")
-    androidTestImplementation("androidx.test.espresso:espresso-core:3.4.0")
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     androidTestImplementation("androidx.compose.ui:ui-test-junit4:${Versions.COMPOSE}")
     debugImplementation("androidx.compose.ui:ui-tooling:${Versions.COMPOSE}")
-    implementation("androidx.compose.material3:material3:1.0.0-alpha04")
+    implementation("androidx.compose.material3:material3:1.2.0-alpha02")
     implementation("com.google.accompanist:accompanist-insets:${Versions.ACCOMPANIST}")
     implementation("com.google.accompanist:accompanist-systemuicontroller:${Versions.ACCOMPANIST}")
     implementation("com.google.accompanist:accompanist-placeholder-material:${Versions.ACCOMPANIST}")
@@ -73,7 +74,7 @@ dependencies {
     implementation("com.github.fornewid:material-motion-compose:0.8.0-beta01")
     implementation("com.google.dagger:hilt-android:2.40.5")
     kapt("com.google.dagger:hilt-compiler:2.40.5")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
     implementation("com.github.LawnchairLauncher:oss-notices:1.0.2")
     implementation("io.coil-kt:coil-compose:1.4.0")
