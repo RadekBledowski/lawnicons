@@ -50,6 +50,7 @@
     <icon drawable="@drawable/bankru" package="ru.sberbankmobile" name="Sberbank" />
     <icon drawable="@drawable/bereal" package="com.bereal.ft" name="BeReal" />
     <icon drawable="@drawable/bewakoof" package="com.bewakoof.bewakoof" name="Bewakoof" />
+    <icon drawable="@drawable/bgmi" package="com.pubg.imobile" name="Battlegrounds Mobile India" />
     <icon drawable="@drawable/bgram" package="org.telegram.BifToGram" name="BGram" />
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
