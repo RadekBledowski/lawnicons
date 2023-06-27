@@ -573,6 +573,11 @@
     <icon drawable="@drawable/protondrive" package="me.proton.android.drive" name="Proton Drive" />
     <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="ProtonMail" />
     <icon drawable="@drawable/protonvpn" package="ch.protonvpn.android" name="ProtonVPN" />
+    <icon drawable="@drawable/pubg" package="com.pubg.krmobile" name="PUBG Mobile Korea" />
+    <icon drawable="@drawable/pubg" package="com.rekoo.pubgm" name="PUBG Mobile Taiwan" />
+    <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG Mobile" />
+    <icon drawable="@drawable/pubg" package="com.tencent.iglite" name="PUBG Mobile Lite" />
+    <icon drawable="@drawable/pubg" package="com.vng.pubgmobile" name="PUBG Mobile Vietnam" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
     <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
     <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
