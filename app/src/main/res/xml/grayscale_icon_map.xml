@@ -356,8 +356,28 @@
     <icon drawable="@drawable/keepass" package="com.kunzisoft.keepass.libre" name="KeePassDX" />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android_nonet" name="Keepass2Android " />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android " />
-    <icon drawable="@drawable/kfc" package="com.kfc_polska" name="KFC" />
-    <icon drawable="@drawable/kfc" package="com.kfc.us.mobile" name="KFC" />
+    <icon drawable="@drawable/kfc" package="com.cts.kfcthailand" name="KFC Thailand" />
+    <icon drawable="@drawable/kfc" package="com.foodbooking.kfcsuriname" name="KFC Suriname" />
+    <icon drawable="@drawable/kfc" package="com.kfc.bahrain" name="KFC Bahrain" />
+    <icon drawable="@drawable/kfc" package="com.kfc.dominicanrepublic" name="KFC RD" />
+    <icon drawable="@drawable/kfc" package="com.kfc.egypt" name="KFC Egypt" />
+    <icon drawable="@drawable/kfc" package="com.kfc.ksa" name="KFC Saudi Arabia" />
+    <icon drawable="@drawable/kfc" package="com.kfc.kwt" name="KFC Kuwait" />
+    <icon drawable="@drawable/kfc" package="com.kfc.me" name="KFC United Arab Emirates" />
+    <icon drawable="@drawable/kfc" package="com.kfc.mexico" name="KFC Mexico" />
+    <icon drawable="@drawable/kfc" package="com.kfc.mobile" name="KFCKU" />
+    <icon drawable="@drawable/kfc" package="com.kfc.oman" name="KFC Oman" />
+    <icon drawable="@drawable/kfc" package="com.kfc.philippines" name="KFC Philippines" />
+    <icon drawable="@drawable/kfc" package="com.kfc.qatar" name="KFC Qatar" />
+    <icon drawable="@drawable/kfc" package="com.kfc.sa" name="KFC South Africa" />
+    <icon drawable="@drawable/kfc" package="com.kfc.us.mobile" name="KFC US" />
+    <icon drawable="@drawable/kfc" package="com.kfc_polska" name="KFC Poland" />
+    <icon drawable="@drawable/kfc" package="com.kfcnz.orderserv" name="KFC New Zealand" />
+    <icon drawable="@drawable/kfc" package="com.kineticcafe.kfccolonelsclub" name="KFC Canada" />
+    <icon drawable="@drawable/kfc" package="com.nanoequipment.kfc" name="KFC Singapore" />
+    <icon drawable="@drawable/kfc" package="com.sirma.kfc" name="KFC Bulgaria" />
+    <icon drawable="@drawable/kfc" package="com.yum.kfc" name="KFC India" />
+    <icon drawable="@drawable/kfc" package="io.bramerz.kfc" name="KFC Pakistan" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
     <icon drawable="@drawable/kiwi" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
