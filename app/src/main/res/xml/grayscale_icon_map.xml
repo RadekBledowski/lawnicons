@@ -738,6 +738,7 @@
     <icon drawable="@drawable/terabox" package="com.dubox.drive" name="Terabox" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/theathletic" package="com.theathletic" name="The Athletic" />
+    <icon drawable="@drawable/threads" package="com.instagram.barcelona" name="Threads" />
     <icon drawable="@drawable/threema" package="ch.threema.app.libre" name="Threema Libre" />
     <icon drawable="@drawable/threema" package="ch.threema.app" name="Threema" />
     <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
