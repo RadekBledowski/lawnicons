@@ -217,6 +217,7 @@
     <icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook" />
     <icon drawable="@drawable/fairemail" package="eu.faircode.email" name="FairEmail" />
     <icon drawable="@drawable/fairemail" package="foundation.e.mail" name="Mail" />
+    <icon drawable="@drawable/fast" package="com.netflix.Speedtest" name="Fast" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
     <icon drawable="@drawable/feeder" package="com.nononsenseapps.feeder.play" name="Feeder" />
     <icon drawable="@drawable/feeder" package="com.nononsenseapps.feeder" name="Feeder" />
